@@ -5,3 +5,9 @@
 [baidu.com](http://baidu.com)
 
 [sample.apk](http://192.168.12.1:8080/sample.apk)
+
+[sample.html](http://192.168.12.1:8080/sample.html)
+
+[sample.mp3](http://192.168.12.1:8080/sample.mp3)
+
+[sample.mp4](http://192.168.12.1:8080/sample.mp4)
