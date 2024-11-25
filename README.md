@@ -16,4 +16,4 @@
 
 [sample.txt](http://192.168.12.1:8080/sample.txt)
 
-[sample.zip](http://192.168.10.1:8000/mini-launcher.apk)
+[sample.zip](http://192.168.10.1:8000/)
